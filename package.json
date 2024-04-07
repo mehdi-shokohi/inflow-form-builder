@@ -1,0 +1,26 @@
+{
+  "name": "inflow-doc-view",
+  "version": "0.0.1",
+  "description": "helper for process inflow documents",
+  "main": "inflowHelper.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "form Builder",
+    "infloe form builder",
+    "inflowenger "
+  ],
+  "author": "mehdi shokohi",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.8",
+    "vue": "^3.4.21"
+  },
+  "dependencies": {
+    "vuetify": "^3.5.14"
+  }
+}
